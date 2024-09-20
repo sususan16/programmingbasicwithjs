@@ -1,0 +1,19 @@
+Why programming is needed?
+
+Computer only understands only 0 and 1/ true and false called binary system.
+
+Programming languages have generally two types.
+1.Compiler (translated in advance)
+2.Interpreter (translate directly) / Interpreted language or Scripted language
+
+Java and Javascript are not the same.
+Java is a compile language.
+Javascript is a interpreted language.
+
+Javascript is also called Client-side-language.
+Only a browser is needed to run Javascript codes.
+
+Nodejs is a run-time environment not a programming language.
+Javascript can run in Nodejs nowadays.
+
+React is a famous library of Nodejs. It says "learn once, write anywhere."
